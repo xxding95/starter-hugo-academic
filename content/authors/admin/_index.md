@@ -18,7 +18,7 @@ education:
   courses:
     - course: PhD in Rehabilitation Science
       institution: University of British Columbia
-      year: 2025
+      year: 2024
     - course: MS in Global Health
       institution: Duke University
       year: 2019
