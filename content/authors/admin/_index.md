@@ -11,7 +11,7 @@ interests:
 social:
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/xxding95/
 organizations:
   - name: University of British Columbia
 education:
