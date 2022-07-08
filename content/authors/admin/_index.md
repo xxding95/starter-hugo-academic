@@ -20,13 +20,14 @@ education:
       institution: University of British Columbia
       year: 2025
     - course: MS in Global Health
-      institution: Duke
+      institution: Duke University
       year: 2019
     - course: BSc in Kinesiology
       institution: The Pennsylvania State University
       year: 2017
     - course: BA in Psychology
       institution: The Pennsylvania State University
+      year: 2017
 email: ""
 superuser: true
 highlight_name: true
