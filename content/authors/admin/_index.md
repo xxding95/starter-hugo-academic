@@ -7,7 +7,7 @@ bio: My research interests include mHealth intervention, machine learning in
 interests:
   - mHealth Intervention
   - Natural Language Processing
-  - Pediatric Health
+  - Pediatric Mental Health
 social:
   - icon: linkedin
     icon_pack: fab
