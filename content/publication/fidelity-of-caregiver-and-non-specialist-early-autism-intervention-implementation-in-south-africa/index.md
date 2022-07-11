@@ -8,7 +8,7 @@ authors:
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: ""
   focal_point: ""
   preview_only: false
 date: 2022-07-09T04:35:02.982Z
